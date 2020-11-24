@@ -6,7 +6,6 @@
   "dependencies": {
     "axios": "^0.21.0",
     "firebase": "^7.21.1",
-    "node-sass": "^4.14.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-nice-input-password": "^2.7.0",
@@ -23,7 +22,8 @@
     "thunk": "0.0.1"
   },
   "devDependencies": {
-    "react-scripts": "^3.4.4"
+    "react-scripts": "^3.4.4",
+    "sass": "^1.29.0"
   },
   "resolutions": {
     "babel-jest": "24.7.1"
