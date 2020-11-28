@@ -43,7 +43,7 @@ const App = ({ checkUserSession, currentUser }) => {
       </Switch>
     </div>
   );
-}
+};
 
 const mapStateToProps = createStructuredSelector({
   currentUser: selectCurrentUser
