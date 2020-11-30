@@ -22,8 +22,6 @@
     "thunk": "0.0.1"
   },
   "devDependencies": {
-    "enzyme": "^3.11.0",
-    "jest": "^26.6.3",
     "react-scripts": "^3.4.4",
     "sass": "^1.29.0"
   },
